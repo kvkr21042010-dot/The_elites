@@ -16,7 +16,7 @@
 
 git clone https://github.com/kvkr21042010-dot/The_elites.git
 
-cd Theelites
+cd The_elites
 
 nano .env.local
 
